@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">HelloGunnar</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Gunnar, Hello Þolli, Hello Þórhildur, Hello Dagný!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
